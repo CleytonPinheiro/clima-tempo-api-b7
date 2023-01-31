@@ -11,9 +11,9 @@
 
 ## Screenshots
 
-<img src="C:\Users\" style="height: 300px; width:600px;"/>
+<img src="./prints/clima.png" style="height: 300px; width:600px;"/>
 
-<img src="C:\Users\" style="height: 300px; width:600px;"/>
+<img src="./prints/Alemanha.png" style="height: 300px; width:600px;"/>
 
 
 ## Funcionalidades
